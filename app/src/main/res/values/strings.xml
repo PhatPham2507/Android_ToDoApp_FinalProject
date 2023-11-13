@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="action_home">Home</string>
+    <string name="action_add">Add</string>
+    <string name="action_my">My</string>
+
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+
+
+</resources>
